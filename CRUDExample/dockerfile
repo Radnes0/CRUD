@@ -1,0 +1,14 @@
+# Usamos una imagen base con JDK 17
+FROM eclipse-temurin:17-jdk-jammy
+
+# Establecemos el directorio de trabajo dentro del contenedor
+WORKDIR /app
+
+# Copiamos el archivo JAR generado desde el directorio target
+COPY target/crud-1.0.0.jar app.jar
+
+# Exponemos el puerto en el que correrá la aplicación (ajusta si no usas el 8080)
+EXPOSE 8080
+
+# Comando para ejecutar la aplicación
+ENTRYPOINT ["java", "-jar", "app.jar"]
