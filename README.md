@@ -75,10 +75,4 @@ https://drive.google.com/file/d/1e3rakb29ctsBThnBFQtOtB576Usye1vk/view?usp=drive
 
 ## 👩‍💻 Cómo colaboramos
 
-Este proyecto fue desarrollado en colaboración con **Teresa Aguilera Corpas** y está inspirado en su interés por trabajar en soluciones completas y robustas, combinando funcionalidades modernas con buenas prácticas de desarrollo.
-
----
-
-## 🌟 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el proyecto o implementar nuevas funcionalidades, no dudes en enviar un pull request.
+Este proyecto fue desarrollado por **Andrés Vázquez Serrano** y está inspirado en su interés por trabajar en soluciones completas y robustas, combinando funcionalidades modernas con buenas prácticas de desarrollo.
